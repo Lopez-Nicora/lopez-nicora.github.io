@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Horacio Lopez-Nicora"
+  site-url: https://lopez-nicora.github.io/
+  repo-url: https://github.com/Lopez-Nicora/lopez-nicora_website
   navbar:
     left:
       - href: Home.qmd
