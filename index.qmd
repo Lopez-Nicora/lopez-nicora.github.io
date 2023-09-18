@@ -1,0 +1,52 @@
+---
+title: "Horacio Lopez-Nicora, Ph.D."
+about:
+  template: trestles
+  image: Lopez-Nicora_Headshot.jpg
+  links:
+    - icon: globe
+      href: https://plantpath.osu.edu/our-people/horacio-lopez-nicora
+    - icon: envelope
+      href: mailto:lopez-nicora.1@osu.edu 
+    - icon: github
+      href: https://github.com/Lopez-Nicora
+    - icon: linkedin
+      href: https://www.linkedin.com/in/horacio-lopez-nicora/
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-9672-9589
+    - text: "{{< ai researchgate >}}"
+      href: https://www.researchgate.net/profile/Horacio-Lopez-Nicora
+    - text: "{{< ai google-scholar >}}"
+      href: "https://scholar.google.com/citations?hl=en&user=CV-mow8AAAAJ&view_op=list_works&sortby=pubdate"
+    #- icon: mastodon
+    
+---
+
+Horacio is a plant pathologist, nematologist, and applied statistician committed to improving and better protecting soybean health. His research is driven by the intertwined goals of ensuring food stability and helping growers manage diseases that affect yield. Ultimately, he would like to develop integrated plant health strategies by uncovering novel insights into the interactions, ecophysiology, and population biology of soybean pathogens.
+
+## Education
+
+The Ohio State University | Columbus, OH, USA |<br> 
+Ph.D. in Plant Pathology
+
+The Ohio State University | Columbus, OH, USA |<br> 
+Master of Applied Statistics (M.A.S.)
+
+University of Illinois | Urbana-Champaign, IL, USA |<br> 
+M.S. Crop Sciences 
+
+Universidad Nacional de Asunción | Paraguay |<br> 
+Agronomía
+
+## Experience
+
+Assistant Professor | The Ohio State University | Columbus, Ohio, USA |
+2021 - present
+
+Adjunct Professor | Universidad San Carlos |
+Asunción, Paragauy | 2021 - present
+
+Adjunct Professor | Universidad de Caldas |
+Manizales, Colombia | 2018 - present
+
+---

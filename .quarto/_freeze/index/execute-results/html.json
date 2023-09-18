@@ -1,0 +1,16 @@
+{
+  "hash": "92e749d7e081f5d98de312463c248550",
+  "result": {
+    "markdown": "---\ntitle: \"Horacio Lopez-Nicora, Ph.D.\"\nabout:\n  template: marquee\n  image: Lopez-Nicora_Headshot.jpg\n  links:\n    - icon: globe\n      href: https://plantpath.osu.edu/our-people/horacio-lopez-nicora\n    - icon: envelope\n      href: mailto:lopez-nicora.1@osu.edu \n    - icon: github\n      href: https://github.com\n    - icon: linkedin\n      href: https://www.linkedin.com/in/horacio-lopez-nicora/\n    - text: \"{{< ai orcid >}}\"\n      href: https://orcid.org/0000-0002-9672-9589\n    - text: \"{{< ai researchgate >}}\"\n      href: https://www.researchgate.net/profile/Horacio-Lopez-Nicora\n    - text: \"{{< ai google-scholar >}}\"\n      href: \"https://scholar.google.com/citations?hl=en&user=CV-mow8AAAAJ&view_op=list_works&sortby=pubdate\"\n    - icon: mastodon\n    \n---\n\n\nHoracio is a plant pathologist, nematologist, and applied statistician committed to improving and better protecting soybean health. His research is driven by the intertwined goals of ensuring food stability and helping growers manage diseases that affect yield. Ultimately, he would like to develop integrated plant health strategies by uncovering novel insights into the interactions, ecophysiology, and population biology of soybean pathogens.\n\n## Education\n\nThe Ohio State University | Columbus, OH | \nPh.D. in Plant Pathology\n\nThe Ohio State University | Columbus, OH | \nMaster of Applied Statistics (M.A.S.)\n\nUniversity of Illinois | Urbana-Champaign, IL | \nM.S. Crop Sciences \n\nUniversidad Nacional de Asunción | Paraguay | \nAgronomía\n\n## Experience\n\nAssistant Professor | The Ohio State University | Columbus, Ohio, U.S.A. | \nSoybean Pathology and Nematology | August 2021 - present\n\nAdjunct Professor | Universidad San Carlos | \nAsunción, Paragauy | Aug 2021 - present\n\nAdjunct Professor | Universidad de Caldas | \nManizales, Colombia | Aug 2018 - present\n\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

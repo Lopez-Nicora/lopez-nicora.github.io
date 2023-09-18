@@ -1,0 +1,18 @@
+---
+title: "Research"
+subtitle: "This page talks about my ongoing and past research projects"
+title-block-banner: false
+date: 2023-09-11
+author: "J. L. Borges"
+editor: visual
+
+format: 
+  html: 
+    number-sections: false
+---
+
+# Ongoing Projects
+
+## Project 1...
+
+## Project 2...

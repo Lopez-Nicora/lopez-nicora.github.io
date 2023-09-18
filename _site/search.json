@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Home.html",
+    "href": "Home.html",
+    "title": "Soybean Pathology and Nematology",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Horacio Lopez-Nicora, Ph.D.",
+    "section": "",
+    "text": "Horacio is a plant pathologist, nematologist, and applied statistician committed to improving and better protecting soybean health. His research is driven by the intertwined goals of ensuring food stability and helping growers manage diseases that affect yield. Ultimately, he would like to develop integrated plant health strategies by uncovering novel insights into the interactions, ecophysiology, and population biology of soybean pathogens."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Horacio Lopez-Nicora, Ph.D.",
+    "section": "Education",
+    "text": "Education\nThe Ohio State University | Columbus, OH, USA | Ph.D. in Plant Pathology\nThe Ohio State University | Columbus, OH, USA | Master of Applied Statistics (M.A.S.)\nUniversity of Illinois | Urbana-Champaign, IL, USA | M.S. Crop Sciences\nUniversidad Nacional de Asunción | Paraguay | Agronomía"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Horacio Lopez-Nicora, Ph.D.",
+    "section": "Experience",
+    "text": "Experience\nAssistant Professor | The Ohio State University | Columbus, Ohio, USA | 2021 - present\nAdjunct Professor | Universidad San Carlos | Asunción, Paragauy | 2021 - present\nAdjunct Professor | Universidad de Caldas | Manizales, Colombia | 2018 - present"
+  }
+]
