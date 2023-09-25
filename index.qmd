@@ -19,7 +19,10 @@ about:
     - text: "{{< ai google-scholar >}}"
       href: "https://scholar.google.com/citations?hl=en&user=CV-mow8AAAAJ&view_op=list_works&sortby=pubdate"
     #- icon: mastodon
-    
+
+format:
+  html:
+    toc: false
 ---
 
 I am a plant pathologist, nematologist, and applied statistician committed to improving and better protecting soybean health. My research is driven by the intertwined goals of ensuring food stability and helping growers manage diseases that affect yield. Ultimately, I would like to develop integrated plant health strategies by uncovering novel insights into the interactions, ecophysiology, and population biology of soybean pathogens.
