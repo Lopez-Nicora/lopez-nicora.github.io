@@ -20,41 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
 }
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
 }
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
 }
-</style>
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -143,7 +128,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-soybean-pathology-and-nematology-lab" id="toc-the-soybean-pathology-and-nematology-lab" class="nav-link active" data-scroll-target="#the-soybean-pathology-and-nematology-lab">The Soybean Pathology and Nematology Lab</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -165,17 +156,22 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
-<p>About this site</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
+<section id="the-soybean-pathology-and-nematology-lab" class="level1">
+<h1>The Soybean Pathology and Nematology Lab</h1>
+<p>I want to introduce citation <span class="citation" data-cites="mengistu2021 Lopez-Nicora2023">(<a href="#ref-mengistu2021" role="doc-biblioref">Mengistu, Bellaloui, and Arelli 2021</a>; <a href="#ref-Lopez-Nicora2023" role="doc-biblioref">Lopez-Nicora et al. 2023</a>)</span>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-Lopez-Nicora2023" class="csl-entry" role="listitem">
+Lopez-Nicora, Horacio D., Timothy I. Ralston, Brian W. Diers, Anne E. Dorrance, and Terry L. Niblack. 2023. <span>“Interactions Among <span><em>Heterodera Glycines</em></span>, <span><em>Macrophomina Phaseolina</em></span>, and Soybean Genotype.”</span> <em>Plant Disease</em> 107 (2): 401–12. <a href="https://doi.org/10.1094/pdis-06-21-1169-re">https://doi.org/10.1094/pdis-06-21-1169-re</a>.
 </div>
+<div id="ref-mengistu2021" class="csl-entry" role="listitem">
+Mengistu, Alemu, Nacer Bellaloui, and Prakash Arelli. 2021. <span>“Resistance to Charcoal Rot Identified Within Soybean Cyst Nematode Resistant Accessions.”</span> <em>Plant Health Progress</em> 22 (4): 552–59. <a href="https://doi.org/10.1094/PHP-01-21-0004-RS">https://doi.org/10.1094/PHP-01-21-0004-RS</a>.
 </div>
-
-
-
-</main> <!-- /main -->
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

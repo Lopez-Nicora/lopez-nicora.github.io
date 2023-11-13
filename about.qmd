@@ -1,9 +1,9 @@
 ---
 title: "About"
+bibliography: references.bib
+toc: true
 ---
 
-About this site
+# The Soybean Pathology and Nematology Lab
 
-```{r}
-1 + 1
-```
+I want to introduce citation [@mengistu2021; @Lopez-Nicora2023].

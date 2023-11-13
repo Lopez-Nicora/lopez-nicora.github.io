@@ -1,0 +1,8 @@
+---
+title: "The Soybean Cyst Nematodes and other Soybean Pathogens"
+author: "Horacio Lopez-Nicora, Ph.D."
+format: revealjs
+editor: visual
+---
+
+## Biology of SCN
